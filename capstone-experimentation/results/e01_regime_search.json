@@ -1,0 +1,123 @@
+{
+  "seeds": 2,
+  "quick": true,
+  "rows": [
+    {
+      "risk_spread": 0.0,
+      "esc": [
+        1.0,
+        1.0
+      ],
+      "cost_pow": 2.0,
+      "graph": "ring",
+      "opt": 15.136733859507089,
+      "greedy_gap": 96.25285874090292,
+      "index_gap": 96.65677404791434,
+      "separation_pp": -0.40391530701141676
+    },
+    {
+      "risk_spread": 0.0,
+      "esc": [
+        1.0,
+        1.0
+      ],
+      "cost_pow": 2.0,
+      "graph": "ring2",
+      "opt": 13.826756877711464,
+      "greedy_gap": 5.4175830144487405,
+      "index_gap": 5.035424071561507,
+      "separation_pp": 0.3821589428872336
+    },
+    {
+      "risk_spread": 0.0,
+      "esc": [
+        0.3,
+        0.95
+      ],
+      "cost_pow": 2.0,
+      "graph": "ring",
+      "opt": 13.797828225520785,
+      "greedy_gap": 82.00553197478648,
+      "index_gap": 79.37719841262218,
+      "separation_pp": 2.6283335621643005
+    },
+    {
+      "risk_spread": 0.0,
+      "esc": [
+        0.3,
+        0.95
+      ],
+      "cost_pow": 2.0,
+      "graph": "ring2",
+      "opt": 12.842570050631702,
+      "greedy_gap": 7.766501295528705,
+      "index_gap": 4.902366390708107,
+      "separation_pp": 2.864134904820598
+    },
+    {
+      "risk_spread": 1.0,
+      "esc": [
+        1.0,
+        1.0
+      ],
+      "cost_pow": 2.0,
+      "graph": "ring",
+      "opt": 12.330695840965344,
+      "greedy_gap": 133.84785350108197,
+      "index_gap": 133.27739271756712,
+      "separation_pp": 0.5704607835148465
+    },
+    {
+      "risk_spread": 1.0,
+      "esc": [
+        1.0,
+        1.0
+      ],
+      "cost_pow": 2.0,
+      "graph": "ring2",
+      "opt": 10.373689266247357,
+      "greedy_gap": 19.656809751860777,
+      "index_gap": 19.692453876072175,
+      "separation_pp": -0.035644124211398065
+    },
+    {
+      "risk_spread": 1.0,
+      "esc": [
+        0.3,
+        0.95
+      ],
+      "cost_pow": 2.0,
+      "graph": "ring",
+      "opt": 11.48064058806102,
+      "greedy_gap": 121.53948261900021,
+      "index_gap": 121.59344902843223,
+      "separation_pp": -0.05396640943202158
+    },
+    {
+      "risk_spread": 1.0,
+      "esc": [
+        0.3,
+        0.95
+      ],
+      "cost_pow": 2.0,
+      "graph": "ring2",
+      "opt": 9.970526363418724,
+      "greedy_gap": 20.266667072780727,
+      "index_gap": 20.253117430272034,
+      "separation_pp": 0.013549642508692727
+    }
+  ],
+  "best": {
+    "risk_spread": 0.0,
+    "esc": [
+      0.3,
+      0.95
+    ],
+    "cost_pow": 2.0,
+    "graph": "ring2",
+    "opt": 12.842570050631702,
+    "greedy_gap": 7.766501295528705,
+    "index_gap": 4.902366390708107,
+    "separation_pp": 2.864134904820598
+  }
+}
